@@ -1,0 +1,3 @@
+{"patient_id": "P20007", "hospital_id": "H001", "diagnosis_code": "C18.7", "disease": "Colon Cancer", "diagnosis_date": "2026-07-10", "treatment": "Medication", "doctor": "Dr. Sharma"}
+{"patient_id": "P20008", "hospital_id": "H001", "diagnosis_code": "C16.3", "disease": "Stomach Cancer", "diagnosis_date": "2026-08-12", "treatment": "Chemotherapy", "doctor": "Dr. Sharma"}
+{"patient_id": "", "hospital_id": "H001", "diagnosis_code": "C20", "disease": "Colorectal Cancer", "diagnosis_date": "2026-09-15", "treatment": "Medication", "doctor": "Dr. Patel"}

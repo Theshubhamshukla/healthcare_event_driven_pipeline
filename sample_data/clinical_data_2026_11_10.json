@@ -1,0 +1,3 @@
+{"patient_id": "P20001", "hospital_id": "H001", "diagnosis_code": "C15.3", "disease": "Esophageal Cancer", "diagnosis_date": "2026-01-10", "treatment": "Surgery", "doctor": "Dr. Sharma"}
+{"patient_id": "P20002", "hospital_id": "H001", "diagnosis_code": "C20", "disease": "Colorectal Cancer", "diagnosis_date": "2026-02-15", "treatment": "Radiation", "doctor": "Dr. Kumar"}
+{"patient_id": "P20003", "hospital_id": "H001", "diagnosis_code": "B20.0", "disease": "HIV", "diagnosis_date": "2026-03-12", "treatment": "Radiation", "doctor": "Dr. Patel"}
